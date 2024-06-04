@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Muskan Dodmani</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A skilled MERN developer focused on providing quality code</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif"/>
 &nbsp💬 Ask me about MERN
 
