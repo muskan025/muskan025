@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif"/>
 &nbsp💬 Ask me about MERN
 
-- 📫 How to reach me ? **muskandodmani222@gmail.com**
+- 📫 How to reach me ? <a href="muskandodmani@gmail.com" target="blank">email</a>
 
 - ⚡ Fun fact : **I'm sane + insane 😁**
 
